@@ -3,3 +3,5 @@
     :recursive:
 
     app
+    geo
+    news
